@@ -8650,148 +8650,6 @@ textarea.form-control-lg {
   .my-sm-15 {
     margin-top: 150px !important;
     margin-bottom: 150px !important; }
-  .my-sm-16 {
-    margin-top: 160px !important;
-    margin-bottom: 160px !important; }
-  .my-sm-17 {
-    margin-top: 170px !important;
-    margin-bottom: 170px !important; }
-  .my-sm-18 {
-    margin-top: 180px !important;
-    margin-bottom: 180px !important; }
-  .my-sm-19 {
-    margin-top: 190px !important;
-    margin-bottom: 190px !important; }
-  .my-sm-20 {
-    margin-top: 200px !important;
-    margin-bottom: 200px !important; }
-  .my-sm-auto {
-    margin-top: auto !important;
-    margin-bottom: auto !important; }
-  .mt-sm-0 {
-    margin-top: 0 !important; }
-  .mt-sm-1 {
-    margin-top: 10px !important; }
-  .mt-sm-2 {
-    margin-top: 20px !important; }
-  .mt-sm-3 {
-    margin-top: 30px !important; }
-  .mt-sm-4 {
-    margin-top: 40px !important; }
-  .mt-sm-5 {
-    margin-top: 50px !important; }
-  .mt-sm-6 {
-    margin-top: 60px !important; }
-  .mt-sm-7 {
-    margin-top: 70px !important; }
-  .mt-sm-8 {
-    margin-top: 80px !important; }
-  .mt-sm-9 {
-    margin-top: 90px !important; }
-  .mt-sm-10 {
-    margin-top: 100px !important; }
-  .mt-sm-11 {
-    margin-top: 110px !important; }
-  .mt-sm-12 {
-    margin-top: 120px !important; }
-  .mt-sm-13 {
-    margin-top: 130px !important; }
-  .mt-sm-14 {
-    margin-top: 140px !important; }
-  .mt-sm-15 {
-    margin-top: 150px !important; }
-  .mt-sm-16 {
-    margin-top: 160px !important; }
-  .mt-sm-17 {
-    margin-top: 170px !important; }
-  .mt-sm-18 {
-    margin-top: 180px !important; }
-  .mt-sm-19 {
-    margin-top: 190px !important; }
-  .mt-sm-20 {
-    margin-top: 200px !important; }
-  .mt-sm-auto {
-    margin-top: auto !important; }
-  .me-sm-0 {
-    margin-right: 0 !important; }
-  .me-sm-1 {
-    margin-right: 10px !important; }
-  .me-sm-2 {
-    margin-right: 20px !important; }
-  .me-sm-3 {
-    margin-right: 30px !important; }
-  .me-sm-4 {
-    margin-right: 40px !important; }
-  .me-sm-5 {
-    margin-right: 50px !important; }
-  .me-sm-6 {
-    margin-right: 60px !important; }
-  .me-sm-7 {
-    margin-right: 70px !important; }
-  .me-sm-8 {
-    margin-right: 80px !important; }
-  .me-sm-9 {
-    margin-right: 90px !important; }
-  .me-sm-10 {
-    margin-right: 100px !important; }
-  .me-sm-11 {
-    margin-right: 110px !important; }
-  .me-sm-12 {
-    margin-right: 120px !important; }
-  .me-sm-13 {
-    margin-right: 130px !important; }
-  .me-sm-14 {
-    margin-right: 140px !important; }
-  .me-sm-15 {
-    margin-right: 150px !important; }
-  .me-sm-16 {
-    margin-right: 160px !important; }
-  .me-sm-17 {
-    margin-right: 170px !important; }
-  .me-sm-18 {
-    margin-right: 180px !important; }
-  .me-sm-19 {
-    margin-right: 190px !important; }
-  .me-sm-20 {
-    margin-right: 200px !important; }
-  .me-sm-auto {
-    margin-right: auto !important; }
-  .mb-sm-0 {
-    margin-bottom: 0 !important; }
-  .mb-sm-1 {
-    margin-bottom: 10px !important; }
-  .mb-sm-2 {
-    margin-bottom: 20px !important; }
-  .mb-sm-3 {
-    margin-bottom: 30px !important; }
-  .mb-sm-4 {
-    margin-bottom: 40px !important; }
-  .mb-sm-5 {
-    margin-bottom: 50px !important; }
-  .mb-sm-6 {
-    margin-bottom: 60px !important; }
-  .mb-sm-7 {
-    margin-bottom: 70px !important; }
-  .mb-sm-8 {
-    margin-bottom: 80px !important; }
-  .mb-sm-9 {
-    margin-bottom: 90px !important; }
-  .mb-sm-10 {
-    margin-bottom: 100px !important; }
-  .mb-sm-11 {
-    margin-bottom: 110px !important; }
-  .mb-sm-12 {
-    margin-bottom: 120px !important; }
-  .mb-sm-13 {
-    margin-bottom: 130px !important; }
-  .mb-sm-14 {
-    margin-bottom: 140px !important; }
-  .mb-sm-15 {
-    margin-bottom: 150px !important; }
-  .mb-sm-16 {
-    margin-bottom: 160px !important; }
-  .mb-sm-17 {
-    margin-bottom: 170px !important; }
   .mb-sm-18 {
     margin-bottom: 180px !important; }
   .mb-sm-19 {
@@ -12415,11 +12273,10 @@ ol {
   display: none; }
   @media (min-width: 576px) {
     .logo {
-      display: block;
-      width: 120px; } }
+      display: block; } }
   .logo img {
-    width: 100%;
-    height: auto; }
+    width: auto;
+    height: 40px; }
   .logo a {
     display: block;
     width: 100%;
@@ -12427,14 +12284,13 @@ ol {
 
 .logo-mobile {
   display: block;
-  width: 40px;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo-mobile {
       display: none; } }
   .logo-mobile img {
-    width: 100%;
-    height: auto; }
+    width: auto;
+    height: 36px; }
   .logo-mobile a {
     display: block;
     width: 100%;
